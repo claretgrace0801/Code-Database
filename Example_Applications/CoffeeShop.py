@@ -4,7 +4,7 @@ print("Would you like to buy a beverage? (y/n)")
 bill  = 0
 buy = input()
 
-prices = [0,100,100,100,100,300,0]
+prices = [0,100,100,100,150,300,0]
 items = ['','Mocha','Latte','Cocoa','Cappucino','Freakshake','']
 
 range = 6
