@@ -1,2 +1,2 @@
 # Code-Database
-Collection of codes
+Collection of codes (example applications and algorithms)
